@@ -16,7 +16,7 @@ header{
 }
 .navbar{
     display: flex;
-    background: url("/assets/navbar\ bgimg.jpg");
+    background: url("assets/navbar\ bgimg.jpg");
     background-blend-mode: overlay;
     background-size: cover;
     background-color: rgba(36, 34, 37, 0.835);
@@ -110,7 +110,7 @@ header{
     cursor: pointer;
 }
 footer{
-    background: url("/assets/navbar\ bgimg.jpg");
+    background: url("assets/navbar\ bgimg.jpg");
     background-blend-mode: multiply;
     background-size: contain;
     background-color: rgb(36, 34, 37);
