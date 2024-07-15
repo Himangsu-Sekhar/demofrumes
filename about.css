@@ -73,4 +73,16 @@
         background: none;
         border: none;
     }
+    }
+    .ab-card-img{
+        height: 200px;
+        width: 200px;
+    }
+    .ab-card p{
+        font-size: smaller;
+    }
+    .ab-card{
+        height: 27rem;
+        width: 20rem;
+    }
 }
