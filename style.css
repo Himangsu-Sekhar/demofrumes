@@ -281,3 +281,7 @@ footer{
         margin: 1rem;
     }
 }
+/* 3rd edit */
+.min-div{
+    min-height: 100vh;
+}
