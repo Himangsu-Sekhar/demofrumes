@@ -57,3 +57,12 @@ iframe{
 iframe:hover{
     box-shadow: 1px 1px 5px grey;
 }
+@media(max-width:600px) {
+    .free-lc{
+        height: 180px;
+        width: 360px;
+    }
+    .free-courses{
+        flex-direction: column;
+    }
+}
