@@ -39,7 +39,7 @@ iframe{
 iframe:hover{
     box-shadow: 1px 1px 5px grey;
 }
-@media(max-width:500px){
+@media(max-width:600px){
     .video{
         height: 180px;
         width: 320px;
