@@ -65,4 +65,15 @@ iframe:hover{
     .free-courses{
         flex-direction: column;
     }
+    .l-card .card-img {
+        height: 150px;
+        width: 150px;
+    }
+    .l-card .lc-btn{
+        font-size: medium;
+    }
+    .l-card{
+        height: 400px;
+        width: 250px;
+    }
 }
