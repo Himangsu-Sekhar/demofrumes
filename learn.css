@@ -78,10 +78,17 @@ iframe:hover{
     }
 }
 /* edit */
-@media(max-width:600px) {
+@media(max-width:400px) {
     .free-lc{
         height: 120px;
         width: 240px;
+        margin: 0.5rem;
+    }
+}    
+@media(max-width:350px) {
+    .free-lc{
+        height: 90px;
+        width: 180px;
         margin: 0.5rem;
     }
 }    
