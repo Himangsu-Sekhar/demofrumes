@@ -77,3 +77,11 @@ iframe:hover{
         width: 250px;
     }
 }
+/* edit */
+@media(max-width:600px) {
+    .free-lc{
+        height: 120px;
+        width: 240px;
+        margin: 0.5rem;
+    }
+}    
